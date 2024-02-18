@@ -1,0 +1,7 @@
+{
+    "name": "大順國電器行",
+    "icons": [
+      { "src": "favicon-192x192.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "favicon-512x512.png", "type": "image/png", "sizes": "512x512" }
+    ]
+  }
