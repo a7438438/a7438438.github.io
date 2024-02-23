@@ -40,13 +40,16 @@
     </header>
     <section>
       <!-- Banner -->
-      <img class="rounded img-fluid" src="img/banner.jpg" alt="...">
+      <picture>
+        <source media="(min-width: 768px), print" srcset="img/banner-pc.jpg">
+        <source media="(max-width: 767px)" srcset="img/banner-mobile.jpg">
+        <img class="rounded img-fluid" src="img/banner-pc.jpg" alt="">
+      </picture>
+
       <article>
         <h2 class="my-5 text-center">
           <span class="pb-1 fw-bold text-center">冷(暖)氣機</span>
         </h2>
-      </article>
-
       <!-- Product -->
       <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
@@ -164,6 +167,7 @@
           </div>
         </div>
       </div>
+    </article>
 
 
 
