@@ -1,3 +1,11 @@
 .w-20 {
     max-width: 20%;
 }
+
+.fs-18px {
+    font-size: 18px;
+}
+
+.fs-3r {
+    font-size: 3rem;
+}
