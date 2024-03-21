@@ -10,9 +10,9 @@
     font-size: 3rem;
 }
 
-.go2top {
+.back2top {
     position: fixed;
     font-size: 2rem;
-    right: 2rem;
-    bottom: 0.25rem;
+    right: 1%;
+    bottom: 1%;
 }
