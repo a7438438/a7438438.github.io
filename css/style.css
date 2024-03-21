@@ -9,3 +9,10 @@
 .fs-3r {
     font-size: 3rem;
 }
+
+.go2top {
+    position: fixed;
+    font-size: 2rem;
+    right: 2rem;
+    bottom: 0rem;
+}
