@@ -16,3 +16,18 @@
     right: 1%;
     bottom: 1%;
 }
+
+.facebook-logo {
+    background-color: #0866FF;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+
+}
+
+.line-logo {
+    background-color: #06C755;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+}
